@@ -1,17 +1,10 @@
 
   table, th, td {
-    border:1px solid black;
+    border:1px solid red;
     border-collapse: collapse;
+    text-align: right;
+    vertical-align: top;
   }
-  table{
-      width: 100%;
-  }
-  th{
-      height: 70px;
-  }
-  td{
-      padding: 10px;
-  }
-  .table_style{
-      color: red;
+  td, th{
+      padding: 3px;
   }
