@@ -4,7 +4,7 @@
     border-collapse: collapse;
   }
   table{
-      width: 100%;
+      width: 50%;
   }
   th{
       height: 70px;
@@ -12,6 +12,12 @@
   td{
       padding: 10px;
   }
-  .table_style{
-      color: red;
+  .list{
+      height: 360px;
+  }
+  .content{
+      width: 67%;
+  }
+  img{
+      height: 360px;
   }
