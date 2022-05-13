@@ -1,10 +1,17 @@
 
   table, th, td {
-    border:1px solid red;
+    border:1px solid black;
     border-collapse: collapse;
-    text-align: right;
-    vertical-align: top;
   }
-  td, th{
+  td{
+      height: 100px;
+      width: 250px;
       padding: 3px;
+  }
+  img{
+    height: 100px;
+    border-radius: 8px;
+  }
+  .blur{
+    filter: blur(2px);
   }
